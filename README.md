@@ -1,4 +1,4 @@
-# Music Genre Classification using a Dilated CNN
+# Music Genre Classification 
 
 This project implements a music genre classifier using a Dilated 1D Convolutional Neural Network (DCNN) built with PyTorch. The model is trained to classify audio clips into one of five genres based on their Mel-Frequency Cepstral Coefficient (MFCC) features.
 

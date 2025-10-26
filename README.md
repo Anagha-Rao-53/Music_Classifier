@@ -18,7 +18,7 @@ The dataset consists of audio samples from **5 music genres**:
 Each genre contains 100 audio samples, for a total of 500 samples in the dataset.
 
 ---
-
+# used 5 categories
 ## Requirements
 
 You will need Python 3 and the following libraries to run the notebook:
